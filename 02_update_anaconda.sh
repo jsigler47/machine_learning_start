@@ -1,6 +1,6 @@
 conda -V
-python -V
+python3 -V
 conda update conda
 conda update anaconda
 conda update --update-all
-python versions.py
+python3 versions.py

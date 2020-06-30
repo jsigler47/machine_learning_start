@@ -1,5 +1,5 @@
 conda -V
 conda install theano
 conda install -c conda-forge tensorflow
-pip install keras
-python deep_versions.py
+pip3 install keras scipy numpy matplotlib pandas sklearn
+python3 deep_versions.py
